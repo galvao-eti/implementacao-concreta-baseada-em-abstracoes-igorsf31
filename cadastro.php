@@ -22,11 +22,11 @@
     <body>
         <header><h1>PHP OO</h1></header>
         <nav>
-			<a href="index.php" title="Página Inicial"> Inicio</a>
-			<a href="cadastro.php" title="Sobre haninibal">  Create</a>
-                        <a href="index.php" title="Página Inicial">  Retreive</a>
-			<a href="Update.php" title="Sobre haninibal">  Update</a>
-                        <a href="Delete.php" title="Página Inicial">  Delete</a>
+			<a href="index.php" title=""> Inicio</a>
+			<a href="cadastro.php" title="">  Create</a>
+                        <a href="index.php" title="">  Retreive</a>
+			<a href="Update.php" title="">  Update</a>
+                        <a href="Delete.php" title="">  Delete</a>
 			
 		</nav>
 
